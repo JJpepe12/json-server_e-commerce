@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/17.png",
+      "category": "Vegetables and Fruits",
+      "name": "Tomate",
+      "weight": "1 kg",
+      "price": "$12.00",
+      "discount": "$10.00"
+    },
+    {
+      "id": 2,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/13.png",
+      "category": "Vegetables and Fruits",
+      "name": "Chilli verde",
+      "weight": "200 g",
+      "price": "$14.00",
+      "discount": "$10.00"
+    },
+    {
+      "id": 3,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/12.png",
+      "category": "Vegetables and Fruits",
+      "name": "Papa",
+      "weight": "500 gr",
+      "price": "$10.00",
+      "discount": "$8.00"
+    },
+    {
+      "id": 4,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/20.png",
+      "category": "Vegetables and Fruits",
+      "name": "Maní",
+      "weight": "450 gr",
+      "price": "$7.90",
+      "discount": "$6.90"
+    },
+    {
+      "id": 5,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/2.png",
+      "category": "Beverages",
+      "name": "Cold brew café",
+      "weight": "50 ml",
+      "price": "$18.80",
+      "discount": "$15.80"
+    },
+    {
+      "id": 6,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/22.png",
+      "category": "Beverages",
+      "name": "Jugo de mango",
+      "weight": "400 ml",
+      "price": "$8.00",
+      "discount": "$6.50"
+    },
+    {
+      "id": 7,
+      "image": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/396324-300-300?v=1768576939&width=300&height=300&aspect=true",
+      "category": "Beverages",
+      "name": "Milo Nestle",
+      "weight": "500 g",
+      "price": "$23.00",
+      "discount": "$20.50"
+    },
+    {
+      "id": 8,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/5794426-800-auto?v=637482078589470000&width=800&height=auto&aspect=true",
+      "category": "Beverages",
+      "name": "Agua",
+      "weight": "310 ml",
+      "price": "$1.90",
+      "discount": "$1.50"
+    },
+    {
+      "id": 9,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/14449258/Gaseosa-Colombiana-Sin-Calorias-X-400-ml-1054508_a.jpg",
+      "category": "Beverages",
+      "name": "Gaseosa",
+      "weight": "400 ml",
+      "price": "$1.20",
+      "discount": "$1.00"
+    },
+    {
+      "id": 10,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/23.png",
+      "category": "Meats and Seafood",
+      "name": "Carne en lata",
+      "weight": "420 g",
+      "price": "$15.50",
+      "discount": "$13.50"
+    },
+    {
+      "id": 11,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/18.png",
+      "category": "Meats and Seafood",
+      "name": "Jamón orgánico",
+      "weight": "160 gr",
+      "price": "$7.20",
+      "discount": "$6.00"
+    },
+    {
+      "id": 12,
+      "image": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/197543-800-800?v=637814135047930000&width=800&height=800&aspect=true",
+      "category": "Meats and Seafood",
+      "name": "Salmón Atlántico",
+      "weight": "100 g",
+      "price": "$30.00",
+      "discount": "$27.00"
+    },
+    {
+      "id": 13,
+      "image": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/204273/7700695119287.jpg?v=637814196931500000",
+      "category": "Meats and Seafood",
+      "name": "Camarón",
+      "weight": "350 g",
+      "price": "$27.00",
+      "discount": "$25.50"
+    },
+    {
+      "id": 14,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/9.png",
+      "category": "Meats and Seafood",
+      "name": "Carne en Bistec",
+      "weight": "350 g",
+      "price": "$20.00",
+      "discount": "$17.00"
+    },
+    {
+      "id": 15,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/11.png",
+      "category": "Breakfast and Dairy",
+      "name": "Pan tajado",
+      "weight": "280 g",
+      "price": "$9.20",
+      "discount": "$7.00"
+    },
+    {
+      "id": 16,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/16.png",
+      "category": "Breakfast and Dairy",
+      "name": "Leche entera",
+      "weight": "1L",
+      "price": "$25.00",
+      "discount": "$22.30"
+    },
+    {
+      "id": 17,
+      "image": "https://olimpica.vtexassets.com/arquivos/ids/739517-800-auto?v=637784104462670000&width=800&height=auto&aspect=true",
+      "category": "Breakfast and Dairy",
+      "name": "Huevos AAA",
+      "weight": "70g",
+      "price": "$22.00",
+      "discount": "$18.50"
+    },
+    {
+      "id": 18,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/14.png",
+      "category": "Breakfast and Dairy",
+      "name": "Pan de hamburguesa",
+      "weight": "500 g",
+      "price": "$9.50",
+      "discount": "$8.000"
+    },
+    {
+      "id": 19,
+      "image": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/185757/7702193407187.jpg?v=637813980017330000",
+      "category": "Breakfast and Dairy",
+      "name": "Harina Pancake Aunt Jemima",
+      "weight": "105 g",
+      "price": "$4.200",
+      "discount": "$2.800"
+    },
+    {
+      "id": 20,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/5.png",
+      "category": "Snacks",
+      "name": "Papas fritas",
+      "weight": "60 g",
+      "price": "$2.80",
+      "discount": "$2.00"
+    },
+    {
+      "id": 21,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/15.png",
+      "category": "Frozen Foods",
+      "name": "Queso",
+      "weight": "450 gr",
+      "price": "$16.70",
+      "discount": "$15.30"
+    },
+    {
+      "id": 22,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/7.png",
+      "category": "Frozen Foods",
+      "name": "Leche larga vida",
+      "weight": "1L",
+      "price": "$33.00",
+      "discount": "$30.50"
+    },
+    {
+      "id": 23,
+      "image": "https://ik.imagekit.io/instaleap/d1/stockimages.tiendasd1.com/kobastockimages/IMAGENES/12002664.png?tr=w-449",
+      "category": "Frozen Foods",
+      "name": "Helado Macadamia",
+      "weight": "300 g",
+      "price": "$15.90",
+      "discount": "$13.40"
+    },
+    {
+      "id": 24,
+      "image": "https://aratiendas.com/wp-content/uploads/2021/05/14308-7704269729513-1.jpg",
+      "category": "Frozen Foods",
+      "name": "Mezcla de Verdura Congelada",
+      "weight": "120 g",
+      "price": "$16.590",
+      "discount": "$14.890"
+    },
+    {
+      "id": 25,
+      "image": "https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/4.png",
+      "category": "Biscuits and Snacks",
+      "name": "Nachos",
+      "weight": "50 g",
+      "price": "$7.90",
+      "discount": "$4.90"
+    }
+  ],
+
+  "compras": [],
+
+  "favoritos": [],
+
+  "usuarios": []
+}
