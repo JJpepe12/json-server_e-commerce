@@ -226,10 +226,7 @@
       "discount": "$4.90"
     }
   ],
-
-  "compras": [],
-
-  "favoritos": [],
-
-  "usuarios": []
+  "Cart": [],
+  "favorites": [],
+  "users": []
 }
